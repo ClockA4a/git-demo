@@ -1,4 +1,4 @@
 Hello Git! Hello atguigu! 1 master
 Hello Git! Hello atguigu! 2 master
-Hello Git! Hello atguigu! 3 master
-Hello Git! Hello atguigu! 4 master
+Hello Git! Hello atguigu! 3
+Hello Git! Hello atguigu! 4
